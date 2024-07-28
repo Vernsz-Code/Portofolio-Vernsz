@@ -14,7 +14,7 @@ function AboutComponent() {
         <div className=" sm:w-3/5 shadow-md p-3 rounded-md text-lg" style={{textAlign: 'center'}}>
           {t("introName")}
           <span className="font-bold underline decoration-blue-500 underline-offset-2">
-            Vernsz
+            Vernsz!
           </span>{" "}
           {t("about")}
         </div>

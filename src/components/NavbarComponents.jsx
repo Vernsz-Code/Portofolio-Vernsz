@@ -105,13 +105,6 @@ function NavbarComponents() {
             </Button>
           </Link>
         </NavbarItem>
-        {/* <NavbarItem >
-          <Select
-            label="Language"
-            size="sm"
-            className="w-32"
-          ></Select>
-        </NavbarItem> */}
       </NavbarContent>
       <NavbarMenu>
         {menuItems.map((item, index) => (

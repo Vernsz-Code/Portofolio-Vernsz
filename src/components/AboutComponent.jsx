@@ -4,7 +4,7 @@ function AboutComponent() {
   const { t } = useTranslation();
 
   return (
-    <div className="w-full grid grid-flow-row p-2 sm:p-5">
+    <div className="w-full grid grid-flow-row p-2 sm:p-5" id="about">
       <div className="w-full top">
         <span className="font-bold text-xl underline decoration-blue-600 underline-offset-2">
           About

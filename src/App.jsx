@@ -17,8 +17,8 @@ function App() {
 
   return (
     <div className=" bg-white h-screen max-w-full p-3 sm:p-0 overflow-x-hidden relative flex flex-col gap-5">
-      <div id="home"></div>
       <NavbarComponents />
+      <div id="home"></div>
       <HeaderComponent />
       <ProjectComponent />
       <RewardComponent />

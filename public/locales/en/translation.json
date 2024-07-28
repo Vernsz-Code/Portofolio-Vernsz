@@ -1,0 +1,19 @@
+{
+  "welcome": "Welcome",
+  "introName": "Hi!, let me introduce myself, i'm ",
+  "description": "description",
+  "list" : "List of",
+  "project" : "project",
+  "aboutProject" : "I have created or am currently working on",
+  "complete": "Complete",
+  "onGoing": "On Going",
+  "notContinue": "Not Continue",
+  "project-1" : "This is my first BLUD project, this application runs using the C# .NET Windows Form programming language. It took me around 3 months to work on this application🙃. This application is designed to manage money, process goods data, and carry out transactions",
+  "project-2" : "This application is a continuation of the previous Cashier application, but this application is only used for the Cashier Department (only making transactions and checking goods). This application runs with Vite Vue3",
+  "project-3" : "This is my *6 month project assignment application, but I didn't do it and I only did it in 1 week.😁",
+  "project-4" :"This application was built for Tefa Tasks, Introducing Tefa App Chat. This is an application used for real-time chatting, of course with limited features 😶. This application runs on MERN Stack",
+  "project-5" : "Roblox Horror Game, My friends and I intend to make a horror game on Roblox. This game is still under development, so stay tuned for the game when it's released 😁",
+  "rewardTitle": "Achievement",
+  "reward-1": "4th place or hopes of winning 1st LKS",
+  "about": "I am a student at a Vocational High School (SMK). I aspire to become a Full-Stack Dev. My interest in the world of programming began when I entered vocational school, where I began to see the potential and opportunities in this field. Since then, I developed my technical skills autodidactically. Apart from studying independently, I also actively participate in various training and projects to improve my abilities."
+}

@@ -1,0 +1,19 @@
+{
+  "welcome": "Selamat Datang",
+  "introName": "Hai!, izinkan saya memperkenalkan diri, saya ",
+  "description": "deskripsi",
+  "list" : "Daftar",
+  "project" : "projek",
+  "aboutProject" : "yang saya buat atau sedang dikerjakan",
+  "complete": "Selesai",
+  "onGoing": "Dalam pengembangan",
+  "notContinue": "Tidak dilanjutkan",
+  "project-1" : "Ini adalah projek BLUD pertama saya, aplikasi ini berjalan menggunakan bahasa pemrograman C# .NET Windows Form. Saya mengerjakan Aplikasi ini membutuhkan waktu sekisar 3 Bulan lamanya🙃. Aplikasi ini dirancang untuk memanajemen uang, mengolah data barang, dan melakukan transaksi",
+  "project-2" : "Aplikasi ini lanjutan dari aplikasi Cashier sebelumnya, tetapi aplikasi ini hanya digunakan untuk Bagian Kasir(hanya melakukan transaksi dan mengecek barang). Aplikasi ini berjalan dengan Vite Vue3",
+  "project-3" : "Ini adalah aplikasi *Tugas project 6 bulan saya, tapi saya tidak mengerjakannya dan saya hanya mengerjakannya dalam 1 minggu.😁",
+  "project-4" : "Aplikasi ini dibangun untuk Tugas Tefa, Perkenalkan Tefa App Chat. Ini adalah aplikasi yang digunakan untuk chattingan secara realtime yang pastinya dengan fitur yang terbatas 😶. Aplikasi ini berjalan dengan MERN Stack",
+  "project-5" : "Game Horror Roblox, Saya dan kawan saya berniat membuat game horror di roblox. Game ini masih dalam proses pembangunan, jadi nantikan gamenya saat sudah rilis 😁",
+  "rewardTitle": "Pencapaian",
+  "reward-1": "peringkat 4 atau harapan juara 1 LKS",
+  "about": "Saya adalah seorang pelajar di sebuah Sekolah Menengah Kejuruan (SMK). Saya bercita-cita menjadi seorang Full-Stack Dev. Minat saya terhadap dunia pemrograman dimulai ketika saya memasuki SMK, di mana saya mulai melihat potensi dan peluang dalam bidang ini. Sejak itu, saya mengembangkan keterampilan teknis saya secara otodidak. Selain belajar secara mandiri, saya juga aktif mengikuti berbagai pelatihan dan proyek untuk meningkatkan kemampuan saya."
+}
